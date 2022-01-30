@@ -1,6 +1,6 @@
 # Auto-File-Forward-Bot
 
-Auto file forward bot.
+Auto file forward bot.bbjj
 Without Admin Permission in FROM_CHANNEL
 Only Give Permission In your Telegram Personal Channel
 
